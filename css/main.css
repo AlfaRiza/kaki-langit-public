@@ -1,0 +1,181 @@
+.navbar {
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.navbar.bg-black {
+  background-color: #000000 !important;
+}
+
+nav .collapse a {
+  font-family: "Montserrat";
+  font-weight: 500 !important;
+}
+
+nav .collapse a.active {
+  font-family: "Montserrat";
+  font-weight: 500 !important;
+}
+
+header p {
+  color: #c0c0c0;
+  font-family: "Montserrat";
+  font-weight: 300 !important;
+  font-size: 16px !important;
+}
+
+header .btn-cta {
+  background-color: #0000CD;
+  color: #ffffff;
+}
+
+header .btn-cta:hover {
+  background-color: #0000FF;
+  color: #ffffff;
+}
+
+.features-icons h2.title {
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.features-icons p.child {
+  color: #c0c0c0;
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.features-icons .col-lg-3 .card img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  min-height: 190px !important;
+  height: 190px !important;
+  overflow: auto;
+}
+
+.features-icons a {
+  text-decoration: none;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.features-icons a i {
+  color: #0000CD;
+}
+
+.features-icons a h3 {
+  font-family: "Lato";
+  font-size: 30px !important;
+  color: #0000CD !important;
+}
+
+.features-icons a h5 {
+  font-family: "Montserrat";
+  color: #4b4b4b;
+}
+
+.features-icons a p {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: #c0c0c0;
+}
+
+.features-icons a:hover {
+  -webkit-transition: 1s;
+  transition: 1s;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  color: #0000FF !important;
+}
+
+#showcase .col-lg-3 .card img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  min-height: 190px !important;
+  height: 190px !important;
+  overflow: auto;
+}
+
+#showcase a {
+  text-decoration: none;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+#showcase a i {
+  color: #0000CD;
+}
+
+#showcase a h3 {
+  font-family: "Lato";
+  font-size: 30px !important;
+  color: #0000CD !important;
+}
+
+#showcase a h5 {
+  font-family: "Montserrat";
+  color: #4b4b4b;
+}
+
+#showcase a p {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: #c0c0c0;
+}
+
+#showcase a:hover {
+  -webkit-transition: 1s;
+  transition: 1s;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  color: #0000FF !important;
+}
+
+#peta .title {
+  font-family: "Montserrat";
+  font-size: 24px;
+  font-weight: 500;
+}
+
+iframe.maps {
+  width: inherit;
+  height: 500px;
+}
+
+.showcase h2 {
+  font-family: "Lato";
+  font-size: 36px;
+  font-weight: 500;
+  color: #000000;
+}
+
+.showcase p {
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 300;
+  color: #c0c0c0;
+}
+
+.showcase .btn-cta {
+  background-color: #0000CD;
+  color: #ffffff;
+}
+
+.showcase .btn-cta:hover {
+  background-color: #0000FF;
+  color: #ffffff;
+}
+
+.navbreads {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(255, 255, 255, 0.1)));
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(255, 255, 255, 0.1));
+  height: 300px;
+  padding-top: 100px;
+}
+
+section.list-item {
+  margin-top: -100px;
+}
+/*# sourceMappingURL=main.css.map */
